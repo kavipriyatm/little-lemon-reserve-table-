@@ -1,0 +1,22 @@
+{
+    "name": "Emma Johnson",
+    "photo": "emma.jpg",
+    "journey": [
+        {
+            "step": "Visits website",
+            "doing": "Browsing the restaurant's homepage",
+            "thinking": "I hope this is easy to navigate",
+            "feeling": "Excited"
+        },
+        {
+            "step": "Selects reservation options",
+            "doing": "Choosing the date, time, and number of diners",
+            "thinking": "I hope I get a table for this time",
+            "feeling": "Hopeful"
+        }
+    ],
+    "improvement_opportunities": [
+        "Simplify the form fields",
+        "Add confirmation details immediately"
+    ]
+}

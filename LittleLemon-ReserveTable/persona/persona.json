@@ -1,0 +1,15 @@
+{
+    "name": "Emma Johnson",
+    "age": 32,
+    "gender": "Female",
+    "occupation": "Marketing Manager",
+    "bio": "Emma is a busy professional who loves trying new restaurants but has little time to call and make reservations. She prefers an easy, quick online booking system.",
+    "needs": [
+        "Quick reservation process",
+        "Reliable booking confirmation"
+    ],
+    "frustrations": [
+        "Unclear confirmation status",
+        "Complicated booking processes"
+    ]
+}
